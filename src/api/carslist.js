@@ -1,0 +1,18 @@
+export const carsList = [
+    { name: "Audi", country: "Germany" },
+    { name: "BMW", country: "Germany" },
+    { name: "Chevrolet", country: "USA" },
+    { name: "Citroen", country: "France" },
+    { name: "Hyundai", country: "South Korea" },
+    { name: "Mercedes-Benz", country: "Germany" },
+    { name: "Renault", country: "France" },
+    { name: "Seat", country: "Spain" },
+    { name: "Dodge", country: "USA" },
+    { name: "BMW", country: "Germany" },
+    { name: "Tesla", country: "USA" },
+    { name: "Volkswagen", country: "Germany" },
+    { name: "Hyundai", country: "South Korea" },
+    { name: "Jaguar", country: "United Kingdom" },
+    { name: "GMC", country: "USA" },
+    { name: "Bentley", country: "United Kingdom" },
+  ];
